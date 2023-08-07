@@ -25,7 +25,7 @@ const App = () => {
       <section className="menu section">
         <div className="title">
           <img src={logo} alt="logo" className="logo" />
-          <h2>Menu List</h2>
+          <h2>Menú</h2>
           <div className="underline"></div>
         </div>
         <Categories
